@@ -1,5 +1,5 @@
-<p style='color:red'>Usage</p>
-Usage
+## Caution!
+You must execute 'load_and_clean_table.R' before you execute prot1.R, prot2.R, or prot3.R.
 
 ## Introduction
 
