@@ -1,6 +1,4 @@
-```diff
-- ## NOTE
-```
+<p style='color:red'>Usage</p>
 Usage
 
 ## Introduction
