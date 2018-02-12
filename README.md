@@ -1,6 +1,6 @@
 ```diff
 - ## NOTE
-```diff
+```
 Usage
 
 ## Introduction
